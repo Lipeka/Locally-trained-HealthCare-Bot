@@ -1,4 +1,4 @@
-# 🏥 Medical LLM Chatbot with LoRA Fine-tuning
+# 🏥 Locally Trained Medical LLM Chatbot with LoRA Fine-tuning
 
 This project demonstrates how to:
 
